@@ -73,7 +73,7 @@ namespace CardGame
             for(int i = 0; i < rowNum * colNum; i++)
             {
                 buttons[i].BackgroundImage = cardImageArray[cardImageArray.Length - 1];
-            }//
+            }//수정사항
         }
 
         private void refresh()
