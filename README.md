@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/ce560174-9817-4832-aac9-0a91d214536a)
+
 # CardGame
 
 ## 게임 제목 : 기억력 카드 매치 🃏
